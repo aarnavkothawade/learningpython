@@ -1,0 +1,1 @@
+food = input("Wow! I also like ")
